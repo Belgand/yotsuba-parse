@@ -1,0 +1,40 @@
+.kana, .trans{
+	display: none;
+}
+
+.btn {
+	background-color: #77A2B5;
+    background-image: linear-gradient(to bottom, #77A2B5, #005275);
+    border: 1px solid #002344;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 1px 1px 1px 0 rgba(255, 255, 255, 0.5) inset, -1px -1px 1px 0 rgba(0, 0, 0, 0.5) inset;
+    color: white;
+	width: 110px;
+	text-align: center;
+    font-size: 12px;
+    margin-top: 5px;
+    padding: 5px 10px;
+    display: block;
+}
+
+.top-btn {
+	margin-left: 85px;
+}
+
+td {
+	width: 300px;
+	height: 25px;
+}
+
+.page {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.col-1 {
+	width: 95px;
+}
+
+table {
+	border-collapse: collapse;
+}
